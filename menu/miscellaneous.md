@@ -1,1 +1,7 @@
-what if I typed something here?
+---
+layout: page
+title: Miscellaneous
+permalink: /miscellaneous
+---
+
+just miscellany and nonsense
