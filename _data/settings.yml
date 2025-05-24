@@ -12,7 +12,6 @@ menu:
 - {name: 'projects', url: 'projects.html'}
 - {name: 'miscellaneous', url: 'miscellaneous.html'}
 - {name: 'contact', url: 'contact.html'}
-- {name: 'help', url: 'help.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
